@@ -1,8 +1,8 @@
 nombre = 5
-type (nombre) # <class 'init>
+type(nombre) # <class 'init>
 
 nombre1 = "Juan"
-type (nombre1) # <class 'str'>
+type(nombre1) # <class 'str'>
 
 nombre2 = 5.2
 type(nombre2) # <class 'float'>
